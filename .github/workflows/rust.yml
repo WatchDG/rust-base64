@@ -1,4 +1,4 @@
-name: rust-base64
+name: wdg-base64
 on: [push]
 jobs:
   build:
