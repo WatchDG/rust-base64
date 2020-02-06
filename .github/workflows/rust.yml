@@ -1,4 +1,4 @@
-name: Rust Base64
+name: rust-base64
 on: [push]
 jobs:
   build:
